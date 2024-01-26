@@ -39,6 +39,7 @@ const useStyles = makeStyles((theme) => ({
     '-webkit-box-orient': 'vertical',
     overflow: 'hidden',
     textOverflow: 'ellipsis',
+    color: theme.palette.text.primary,
   },
 }));
 
